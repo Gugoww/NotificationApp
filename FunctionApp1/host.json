@@ -1,0 +1,15 @@
+{
+  "version": "2.0",
+  "Blob": {
+    "ConnectionString": "DefaultEndpointsProtocol=https;AccountName=sttratativasdev01;AccountKey=qP3Bs7zEWiGKjiZaoQufHrn8ONmR2L3+DiVIUM0737UcY0pmtIfzphxYCplu+gEU1u7mDDIr76NRfRmGoxvFYw==;EndpointSuffix=core.windows.net",
+    "ContainerName": "notificacao-guiaproducao"
+  },
+    "logging": {
+        "applicationInsights": {
+            "samplingSettings": {
+                "isEnabled": true,
+                "excludedTypes": "Request"
+            }
+        }
+    }
+}

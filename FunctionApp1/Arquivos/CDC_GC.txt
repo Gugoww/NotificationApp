@@ -1,0 +1,10 @@
+titulo = 'FINANCIAMENTO - CONTRATOS APROVADOS E NÃO FORMALIZADOS'
+template = '''Olá [usuário GC]
+
+Identificamos que o corretor [MNGRUPO] possui [COUNT_of_CODIGO_CONTRATO] contratos de financiamento aprovados nos últimos 7 dias aguardando formalização.
+
+Estes contratos somam [SUM_of_VALOR_LIBERADO], Seu IAM% no produto Financiamento está em [PER_INDICE_ATINGIMENTO] e o valor faltante para atingir a meta do periodo [VLR_META_FALTANTE_PERIODO].
+
+Verifique as oportunidades com o corretor
+
+Telemetria Comercial.'''

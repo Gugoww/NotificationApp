@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Porto\\FunctionApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF19800-CD0C-4FE7-B05B-E67F808458D0}|FunctionApp1\\FCGuiaProducaoNotificacao.csproj|e:\\porto\\functionapp1\\functionapp1\\functionnotificationapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF19800-CD0C-4FE7-B05B-E67F808458D0}|FunctionApp1\\FCGuiaProducaoNotificacao.csproj|solutionrelative:functionapp1\\functionnotificationapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF19800-CD0C-4FE7-B05B-E67F808458D0}|FunctionApp1\\FCGuiaProducaoNotificacao.csproj|e:\\porto\\functionapp1\\functionapp1\\model\\notificationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF19800-CD0C-4FE7-B05B-E67F808458D0}|FunctionApp1\\FCGuiaProducaoNotificacao.csproj|solutionrelative:functionapp1\\model\\notificationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF19800-CD0C-4FE7-B05B-E67F808458D0}|FunctionApp1\\FCGuiaProducaoNotificacao.csproj|e:\\porto\\functionapp1\\functionapp1\\interfaces\\inotificationapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF19800-CD0C-4FE7-B05B-E67F808458D0}|FunctionApp1\\FCGuiaProducaoNotificacao.csproj|solutionrelative:functionapp1\\interfaces\\inotificationapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF19800-CD0C-4FE7-B05B-E67F808458D0}|FunctionApp1\\FCGuiaProducaoNotificacao.csproj|e:\\porto\\functionapp1\\functionapp1\\model\\notificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF19800-CD0C-4FE7-B05B-E67F808458D0}|FunctionApp1\\FCGuiaProducaoNotificacao.csproj|solutionrelative:functionapp1\\model\\notificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationResponse.cs",
+              "DocumentMoniker": "E:\\Porto\\FunctionApp1\\FunctionApp1\\Model\\NotificationResponse.cs",
+              "RelativeDocumentMoniker": "FunctionApp1\\Model\\NotificationResponse.cs",
+              "ToolTip": "E:\\Porto\\FunctionApp1\\FunctionApp1\\Model\\NotificationResponse.cs",
+              "RelativeToolTip": "FunctionApp1\\Model\\NotificationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:35:29.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INotificationApp.cs",
+              "DocumentMoniker": "E:\\Porto\\FunctionApp1\\FunctionApp1\\Interfaces\\INotificationApp.cs",
+              "RelativeDocumentMoniker": "FunctionApp1\\Interfaces\\INotificationApp.cs",
+              "ToolTip": "E:\\Porto\\FunctionApp1\\FunctionApp1\\Interfaces\\INotificationApp.cs",
+              "RelativeToolTip": "FunctionApp1\\Interfaces\\INotificationApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:34:55.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationConfig.cs",
+              "DocumentMoniker": "E:\\Porto\\FunctionApp1\\FunctionApp1\\Model\\NotificationConfig.cs",
+              "RelativeDocumentMoniker": "FunctionApp1\\Model\\NotificationConfig.cs",
+              "ToolTip": "E:\\Porto\\FunctionApp1\\FunctionApp1\\Model\\NotificationConfig.cs",
+              "RelativeToolTip": "FunctionApp1\\Model\\NotificationConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:36:23.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FunctionNotificationApp.cs",
+              "DocumentMoniker": "E:\\Porto\\FunctionApp1\\FunctionApp1\\FunctionNotificationApp.cs",
+              "RelativeDocumentMoniker": "FunctionApp1\\FunctionNotificationApp.cs",
+              "ToolTip": "E:\\Porto\\FunctionApp1\\FunctionApp1\\FunctionNotificationApp.cs",
+              "RelativeToolTip": "FunctionApp1\\FunctionNotificationApp.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAewEMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:11:10.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
